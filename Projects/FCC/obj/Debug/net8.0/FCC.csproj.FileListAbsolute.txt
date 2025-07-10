@@ -1,0 +1,15 @@
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/bin/Debug/net8.0/FCC
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/bin/Debug/net8.0/FCC.deps.json
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/bin/Debug/net8.0/FCC.runtimeconfig.json
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/bin/Debug/net8.0/FCC.dll
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/bin/Debug/net8.0/FCC.pdb
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.AssemblyInfoInputs.cache
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.AssemblyInfo.cs
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.csproj.CoreCompileInputs.cache
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.sourcelink.json
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.dll
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/refint/FCC.dll
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.pdb
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/FCC.genruntimeconfig.cache
+/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/Debug/net8.0/ref/FCC.dll

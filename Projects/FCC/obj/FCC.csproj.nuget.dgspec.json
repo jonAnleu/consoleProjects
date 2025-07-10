@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonanleu/repos/consoleProjects/Projects/Projects/Projects.csproj": {}
+    "/Users/jonanleu/repos/consoleProjects/Projects/FCC/FCC.csproj": {}
   },
   "projects": {
-    "/Users/jonanleu/repos/consoleProjects/Projects/Projects/Projects.csproj": {
+    "/Users/jonanleu/repos/consoleProjects/Projects/FCC/FCC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonanleu/repos/consoleProjects/Projects/Projects/Projects.csproj",
-        "projectName": "Projects",
-        "projectPath": "/Users/jonanleu/repos/consoleProjects/Projects/Projects/Projects.csproj",
+        "projectUniqueName": "/Users/jonanleu/repos/consoleProjects/Projects/FCC/FCC.csproj",
+        "projectName": "FCC",
+        "projectPath": "/Users/jonanleu/repos/consoleProjects/Projects/FCC/FCC.csproj",
         "packagesPath": "/Users/jonanleu/.nuget/packages/",
-        "outputPath": "/Users/jonanleu/repos/consoleProjects/Projects/Projects/obj/",
+        "outputPath": "/Users/jonanleu/repos/consoleProjects/Projects/FCC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonanleu/.nuget/NuGet/NuGet.Config"
